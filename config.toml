@@ -1,8 +1,8 @@
-baseURL = "https://amber.rbind.io/"
+baseURL = "https://lazada-one.netlify.app"
 languageCode = "en-us"
-title = "Amber Thomas Data Portfolio & Blog"
+title = "Lazada One Data Portfolio & Blog"
 theme = "data-science"
-disqusShortname = "amberthomas"
+disqusShortname = "lazadaone"
 enableEmoji = true
 # allow search engines to search/crawl everything
 enableRobotsTXT = true
@@ -20,10 +20,10 @@ preserveTaxonomyNames = true
   category = "categories"
 
 [params]
-  author = "Amber Thomas"
+  author = "Lazada One"
   description = "A collection of my data science projects and blog posts about R, d3, and everything in between."
-  twitterAuthor = "@ProQuesAsker"
-  twitterSite = "@ProQuesAsker"
+  twitterAuthor = "@lazadaone"
+  twitterSite = "@lazadaone"
   images = ['logo.jpg']
 
   # options for highlight.js (version, additional languages, and theme)
@@ -35,15 +35,18 @@ preserveTaxonomyNames = true
   highlightjsThemeLight = ""
   highlightjsThemeDark = ""
 
-
+  #email = "mailto:AmberThomasMSc@gmail.com"
+  #twitter = "https://twitter.com/ProQuesAsker"
+  #github = "https://www.github.com/ProQuestionAsker"
+  #linkedin = "https://www.linkedin.com/in/amberrthomas/"
 
 
 
 [params.social]
-  email = "mailto:AmberThomasMSc@gmail.com"
-  twitter = "https://twitter.com/ProQuesAsker"
-  github = "https://www.github.com/ProQuestionAsker"
-  linkedin = "https://www.linkedin.com/in/amberrthomas/"
+  email = "mailto:lazadaone@gmail.com"
+  twitter = "https://twitter.com/lazadaone"
+  github = "https://www.github.com/lazadaone"
+  linkedin = "https://www.linkedin.com/in/lazadaone/"
   stackoverflow = ""
   facebook = ""
   instagram = ""
